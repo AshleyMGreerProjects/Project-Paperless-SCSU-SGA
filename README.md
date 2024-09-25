@@ -2,7 +2,7 @@
 
 ## Overview of the Project
 
-The **Tech Fee Committee Attendance/Weekly Report Generator** is a robust Python application built to streamline and automate the process of logging committee attendance and generating weekly reports. The system eliminates the manual, paper-based tracking methods, transitioning six committees (each with 30-50 members) to a fully digital, paperless system. By reducing the time needed for manual reporting by **80%**, the tool enhances accuracy and efficiency, ensuring that attendance data is easily accessible in CSV or PDF formats.
+The **Tech Fee Committee Attendance/Weekly Report Generator** is a robust Python application built to streamline and automate the process of logging committee attendance and generating weekly reports. The system eliminates the manual, paper-based tracking methods, transitioning six committees (each with 10-15 members) to a fully digital, paperless system. By reducing the time needed for manual reporting by **80%**, the tool enhances accuracy and efficiency, ensuring that attendance data is easily accessible in CSV or PDF formats.
 
 This system was iteratively refined based on user feedback to ensure it met the specific needs of the committees using it, including real-time quorum verification and customizable report outputs. The application is designed to be user-friendly, with a Graphical User Interface (GUI) that supports seamless data entry, exporting capabilities, and attendance management.
 
