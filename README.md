@@ -122,4 +122,4 @@ To ensure that the six committees effectively adopted this system, I provided cl
 
 Through these sessions, I gathered feedback, which helped in iterating the tool to make it more user-friendly. Features such as quorum checking and report generation were refined based on real-world usage, ensuring that the tool met the needs of committee members. 
 
-Each committee had approximately **10 to 15 members,** tracking 60-75 members in total, and the tool was designed to handle all of them efficiently. Over a two-month period, I implemented their feedback, streamlining processes and customizing the tool for each committee’s needs. This resulted in an 80% reduction in the time spent on manual attendance tracking and reporting.
+Each committee had approximately **10 to 15 members,** tracking 60-90 members in total, and the tool was designed to handle all of them efficiently. Over a two-month period, I implemented their feedback, streamlining processes and customizing the tool for each committee’s needs. This resulted in an 80% reduction in the time spent on manual attendance tracking and reporting.
